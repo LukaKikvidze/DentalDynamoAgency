@@ -1,2 +1,1 @@
-# DentalDynamoAgency
-Agency Website
+# Dental Dynamo Agency
